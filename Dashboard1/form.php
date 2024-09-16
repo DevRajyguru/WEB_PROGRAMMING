@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Form</title>
-    <link rel="stylesheet" href="assets/styles.css" />
+    <link rel="stylesheet" href="assets/styles.css">
   </head>
   <body>
     <div class="formbold-main-wrapper">
@@ -18,7 +18,7 @@
             <div>
               <input type="text" name="details" class="formbold-form-input" />
             </div>
-          </div
+</div>
 
           <div class="formbold-mb-3">
             <label for="age" class="formbold-form-label"> Portfolio </label>
