@@ -18,7 +18,7 @@
             <div>
               <input type="text" name="details" class="formbold-form-input" />
             </div>
-</div>
+          </div>
 
           <div class="formbold-mb-3">
             <label for="age" class="formbold-form-label"> Portfolio </label>

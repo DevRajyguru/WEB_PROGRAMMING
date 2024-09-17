@@ -57,6 +57,7 @@ body {
   display: flex;
   gap: 20px;
   margin-bottom: 15px;
+ 
 }
 .formbold-input-flex > div {
   width: 50%;
@@ -127,6 +128,7 @@ select.formbold-form-input,
   margin-top: 2px;
   border: 0.7px solid #dde3ec;
   border-radius: 3px;
+  
 }
 
 .formbold-form-file {
