@@ -11,5 +11,4 @@ if ($number1 > $number2 && $number1 > $number3) {
 } else {
     echo "Largest number is: " . $number3;
 }
-
 ?>

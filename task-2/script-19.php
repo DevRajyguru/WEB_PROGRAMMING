@@ -3,7 +3,8 @@
 $number = 29; // Replace this value with any positive integer you want to check
 
 // Function to check if a number is prime
-function isPrime($num) {
+function isPrime($num)
+{
     if ($num <= 1) {
         return false;
     }
